@@ -1,0 +1,15 @@
+{
+    "name": "mmiss/cinetech",
+    "autoload": {
+        "psr-4": {
+            "Mmiss\\Cinetech\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "magomed-malik-issaev",
+            "email": "magomed-malik.issaev@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
